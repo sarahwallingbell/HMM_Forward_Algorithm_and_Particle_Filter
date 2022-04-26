@@ -3,4 +3,4 @@
 
 Implementation of the Forward Algorithm and Particle Filtering to enable Pac-Man to hunt a ghost. <br>See *pacman_assignment.pdf* for full assignment description. 
 
-I was given starter code and wrote the code in *PacmanForwardAlgorithm.java* and *PacmanParticleFilter.java*.
+I was given starter code and wrote the code in *PacmanForwardAlgorithm.java* and *PacmanParticleFilter.java* in the characters package.
